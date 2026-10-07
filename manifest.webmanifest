@@ -1,0 +1,19 @@
+{
+  "name": "1500m ラップ測定",
+  "short_name": "1500mラップ",
+  "description": "300mトラックで1500mのラップを測定し、スクールAI用の文章を作成します。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#123c69",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
